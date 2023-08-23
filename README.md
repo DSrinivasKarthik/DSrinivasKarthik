@@ -5,9 +5,9 @@
 
 - 🏫 I'm a Sophomore at Thiagarajar College of Engineering
 
-- 🏆 Smart India Hackathon Finalist 
+- 🏆 Smart India Hackathon 2022 - Software Edition Finalist 
   
-- 🏆 Autodesk Fusion 360 Mega Challenge - Second Runner Up
+- 🏆 Autodesk Fusion 360 Mega Challenge (Naan Mudhalvan) - Second Runner Up
 
 - 🔭 I’m currently working on **Air Canvas using Machine learning**
 
