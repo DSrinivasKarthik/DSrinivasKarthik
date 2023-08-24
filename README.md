@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm D Srinivas Karthik</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Developer" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
+<img align="right" alt="Developer" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif">
 
 - 🏫 I'm a Sophomore at Thiagarajar College of Engineering
 
