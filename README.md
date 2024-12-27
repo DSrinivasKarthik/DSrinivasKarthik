@@ -47,7 +47,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsrinivaskarthik&theme=radical" alt="GitHub Streak">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=dsrinivaskarthik&theme=radical&margin-w=15&row=2&column=3" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=dsrinivaskarthik&theme=radical&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
