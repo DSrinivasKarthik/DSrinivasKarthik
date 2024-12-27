@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm D Srinivas Karthik</h1>
-
-
 ### 🏫 About Me:
 - 🎓 **Final Year Student** at **Thiagarajar College of Engineering**
 - 🏆 **Achievements**:
