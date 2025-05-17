@@ -106,7 +106,7 @@ Created a compelling design that secured the Second Runner Up position in the Na
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dsrinivaskarthik/dsrinivaskarthik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dsrinivaskarthik/dsrinivaskarthik/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 </div>
 
 <div align="center">
