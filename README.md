@@ -63,8 +63,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=your-best-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/messageCraft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=your-second-best-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/minesweeper_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=messagecraft&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/messageCraft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=minesweeper_game&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/minesweeper_game)
 
 </div>
 
