@@ -37,7 +37,7 @@
 
 ---
 
-## 🏢 Internship @ HPE Aruba (2025)
+## 🏢 Internship @ HPE Aruba Networking (2025)
 
 - 🚀 Cut telemetry ingestion by 45% → $2,000+/mo cost savings
 - 📊 5+ New Relic dashboards for 20+ microservices (CPU trends)
