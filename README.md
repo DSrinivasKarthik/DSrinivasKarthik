@@ -129,7 +129,7 @@
 
 
 ### 👀 Visitor Count  
-![Visitor Count](https://profile-counter.glitch.me/dsrinivaskarthik/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dsrinivaskarthik.profile)
 
 ### 🐍 Contribution Snake  
 <img src="https://raw.githubusercontent.com/dsrinivaskarthik/dsrinivaskarthik/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
