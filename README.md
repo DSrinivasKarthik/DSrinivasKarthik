@@ -69,7 +69,7 @@
 
 [![MessageCraft](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=messagecraft&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/messageCraft)  
 
-[![Minesweeper Game](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=minesweeper_game&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/minesweeper_game)  
+[![Lock-in](https://github-readme-stats.vercel.app/api/pin/?username=dsrinivaskarthik&repo=lock-in&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dsrinivaskarthik/lock-in)  
 
 
 </div>
