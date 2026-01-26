@@ -91,15 +91,3 @@ while(alive) {
 
 </div>
 
-
----
-
-<div align="center">
-
-**“Talk is cheap. Logs are priceless.”**  
-*– DSK*
-
-</div>
-
-
-
